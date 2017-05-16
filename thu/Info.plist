@@ -2,8 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Can I access your photo library</string>
 	<key>CFBundleDisplayName</key>
-	<string></string>
+	<string>thu</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>Quirlycues.ttf</string>
@@ -29,6 +31,8 @@
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Show me where you are!</string>
+	<key>NSLocationAlwaysInUseUsageDescription</key>
 	<string>Show me where you are!</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>

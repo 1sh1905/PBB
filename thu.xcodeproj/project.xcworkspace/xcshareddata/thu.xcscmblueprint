@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "657ED7B8943213514142646FA611BA69A7CEB3FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7B912768E9D8EBFC10FCD9E716B2BD8932A5911C" : 0,
+    "657ED7B8943213514142646FA611BA69A7CEB3FC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7A5733DB-CC75-4A91-9869-204FACE4D4E3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7B912768E9D8EBFC10FCD9E716B2BD8932A5911C" : "",
+    "657ED7B8943213514142646FA611BA69A7CEB3FC" : "thu\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "thu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "thu.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:1sh1905\/PBB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "657ED7B8943213514142646FA611BA69A7CEB3FC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.heroku.com\/radiant-shore-28774.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7B912768E9D8EBFC10FCD9E716B2BD8932A5911C"
+    }
+  ]
+}
