@@ -14,9 +14,9 @@ HOW TO RUN:
 4) Run the project. :)
 
 File Contents of the project:
-Bolts.framework = external library linked with the project
-Parse.framework = external library linked with the project for server communication
-Parse-server-example-master = helpful in connecting to heroku server
-thu.xcodeproj = main xcode project executable
-thu = file containing all the modules and the code
-app-icon.jpg = app icon used in the project
+1) Bolts.framework = external library linked with the project
+2) Parse.framework = external library linked with the project for server communication
+3) Parse-server-example-master = helpful in connecting to heroku server
+4) thu.xcodeproj = main xcode project executable
+5) thu = file containing all the modules and the code
+6) app-icon.jpg = app icon used in the project
